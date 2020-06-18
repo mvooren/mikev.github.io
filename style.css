@@ -1,0 +1,22 @@
+
+#header {background-color: #CC451C;
+        height:106px;
+        width:1250px;
+        float: left;
+        margin-left: 30px;
+        border: 2px solid black}
+#menu {background-color: #FAFF9E;
+        width:200px;
+        height: 4000px;
+        float: left;
+        margin-left: 30px;
+        border: 1px solid black}
+#content {background-color: #FAFF9E;
+          width: 1050px;
+          height: 4000px;
+          float: left;
+          border: 1px solid black}
+
+
+
+body{font-family: verdana,arial;}
